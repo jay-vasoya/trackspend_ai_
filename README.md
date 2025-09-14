@@ -305,28 +305,6 @@ python test_natural_language.py
 
 ---
 
-## 🚀 Deployment
-
-### Frontend (Vercel)
-1. Connect your GitHub repository to Vercel
-2. Set build command: `npm run build`
-3. Set output directory: `dist`
-4. Deploy!
-
-### Backend (Railway/Heroku)
-1. Create a new project on Railway/Heroku
-2. Connect your GitHub repository
-3. Set environment variables
-4. Deploy!
-
-### Database (MongoDB Atlas)
-1. Create a MongoDB Atlas cluster
-2. Get connection string
-3. Update environment variables
-4. Deploy!
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -334,12 +312,6 @@ python test_natural_language.py
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -353,23 +325,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-If you have any questions or need help, please:
-
-1. Check the [Issues](https://github.com/your-username/TrackSpendAI/issues) page
-2. Create a new issue with detailed description
-3. Contact us at support@trackspendai.com
-
----
-
 ## 🔮 Roadmap
 
 - [ ] **Mobile App**: React Native mobile application
 - [ ] **Bank Integration**: Direct bank account connections
 - [ ] **Advanced ML**: Deep learning models for better predictions
-- [ ] **Multi-Currency**: Support for multiple currencies
-- [ ] **Team Features**: Family/team financial management
 - [ ] **Tax Integration**: Tax planning and filing assistance
 - [ ] **Investment Tracking**: Real-time investment portfolio tracking
 - [ ] **Voice Commands**: Voice-activated financial queries
